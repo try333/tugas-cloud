@@ -1,0 +1,13 @@
+{
+    "name": "onichan/load_pdf",
+    "authors": [
+        {
+            "name": "Tri Hariadi",
+            "email": "triumpar@gmail.com"
+        }
+    ],
+    "require": {},
+    "scripts": {
+    	"server": "php -S 192.168.43.25:8080"
+    }
+}
